@@ -1,2 +1,17 @@
 # docker-s3fs-file-server
-🐳 A Docker image for s3fs - the tool providing mount of an S3 bucket via FUSE
+
+A Docker image for a HTTP server backed by s3fs.
+
+## Run
+
+```
+
+```
+
+## Build
+
+    $ make
+
+## Push to Docker Hub
+
+    $ make push
